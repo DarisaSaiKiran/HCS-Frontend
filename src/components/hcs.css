@@ -1,0 +1,21 @@
+body, html {
+    height: 100%;
+  }
+  
+
+
+.bg {
+    background-image: url("./u.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .bgad {
+    background-image: url("./u.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
